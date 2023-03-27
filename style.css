@@ -1,0 +1,216 @@
+body {
+    margin: 0px;
+}
+.top-container {
+    background-color: #E0EBE8;
+    text-align: center;
+    position: relative;
+    padding-top: 100px;    
+}
+.top-cloud {
+    width: 100px;
+    position: absolute;
+    right: 580px;
+    top: 150px
+}
+h1 {
+    height: 100px;
+    margin-top: 0px;
+    font-family: 'Sacramento', cursive;
+    font-size: 450%;
+    color: #45b29a;    
+}
+.name {
+    font-size: 90px;
+    font-weight: 500;
+    margin: 0;
+}
+.designation {
+    margin-top: 30px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 110%;
+    font-weight: normal;
+}
+.mountain {
+    position: relative;
+    top: 4px;
+    height: 300px;
+    margin-top: 150px;
+}
+.bottom-image {
+    width: 100px;
+    position: absolute;
+    margin-top: 60px;
+    left: 530px;   
+}
+.middle-container {
+    margin-top: 70px;
+    margin-bottom: 70px;
+    text-align: center;
+    background-color: white;
+}
+h3 {
+    color: #45b29a;
+}
+hr {
+    margin-top: 40px;
+    border-style: none none dotted;
+    width: 6%;
+    border-width: 7px;
+    border-color: #a7b4b4;
+}
+.profile {
+    margin-bottom: 70px;
+}
+#profile-picture {
+    height: 150px;
+    width: 150px;
+    border-style: solid;
+    border-radius: 100%;
+    border-color: #45b29a;
+}
+.profile-heading {
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+    font-weight: normal;
+    color: #45b29a;
+}
+.profile-body {
+    font-family: 'Poppins', sans-serif;
+    line-height: 10px;
+}
+.skills {
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+.skills-heading {
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+    font-weight: normal;
+    color: #45b29a;
+}
+.skill-row {
+    width: 40%;
+    margin: 50px auto 50px auto;
+    font-family: 'Poppins', sans-serif;
+    text-align: left;
+    line-height: 1.7;
+    text-justify: ;
+}
+.web-design {
+    width: 20%;
+    margin-right: 30px;
+    border-radius: 100%;
+    border-style: solid;
+    border-color: #45b29a;
+    float: left;
+}
+.webdesign-body {
+    font-family: 'Poppins', sans-serif;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.graphic-design {
+    width: 20%;
+    border-radius: 100%;
+    border-style: solid;
+    border-color: #45b29a;
+    float: right;
+}
+.graphicdesign-body {
+    font-family: 'Poppins', sans-serif;
+}
+.contact-me {
+    font-family: 'Poppins', sans-serif;
+    color: #45b29a; 
+}
+.contact-heading {
+    margin-top: 70px;
+    margin-bottom: 0;
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+}
+.contact-subheading {
+    margin-bottom: 30px;   
+    font-size: 22px;
+}
+.contact-body {
+    margin-top: 10px;
+    margin-bottom: 50px;
+    font-family: 'Poppins', sans-serif;
+    line-height: 10px;
+    color: black;
+}
+
+.btn {
+    background: #45b29a;
+    background-image: -webkit-linear-gradient(top, #45b29a, #229479);
+    background-image: -moz-linear-gradient(top, #45b29a, #229479);
+    background-image: -ms-linear-gradient(top, #45b29a, #229479);
+    background-image: -o-linear-gradient(top, #45b29a, #229479);
+    background-image: linear-gradient(to bottom, #45b29a, #229479);
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: 'Poppins', sans-serif;
+    color: #ffffff;
+    font-size: 15px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #45b29a;
+    background-image: -webkit-linear-gradient(top, #45b29a, #0b4738);
+    background-image: -moz-linear-gradient(top, #45b29a, #0b4738);
+    background-image: -ms-linear-gradient(top, #45b29a, #0b4738);
+    background-image: -o-linear-gradient(top, #45b29a, #0b4738);
+    background-image: linear-gradient(to bottom, #45b29a, #0b4738);
+    text-decoration: none;
+  }
+
+.bottom-container {
+    height: 150px;
+    text-align: center;
+    background-color: #4ab19a;
+}
+.footer-link {
+    color: #0b4738;
+    text-decoration: none;
+}
+.footer-link:hover {
+    color: #06271f;
+}
+.insta {
+    font-family: 'Poppins', sans-serif;
+    display: inline-block;
+    font-size: 18px;
+    width: 10%;
+    padding-top: 20px;
+}
+.fb {
+    font-family: 'Poppins', sans-serif;
+    display: inline-block;
+    font-size: 18px;
+    width: 10%;
+    padding-top: 20px; 
+}
+.github {
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    display: inline-block;
+    width: 10%;
+    padding-top: 20px;
+}
+#copyright {
+    margin-top: 30px;
+    font-family: 'Poppins', sans-serif;
+    color: #0b4738;
+}
+.website {
+    color: #0b4738;
+    text-decoration: none;
+}
+.website:hover {
+    color: #06271f;
+}
